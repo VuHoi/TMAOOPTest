@@ -1,0 +1,11 @@
+F:\Project\Buoi2TMA\Buoi2TMA\bin\Debug\netcoreapp2.0\Buoi2TMA.deps.json
+F:\Project\Buoi2TMA\Buoi2TMA\bin\Debug\netcoreapp2.0\Buoi2TMA.runtimeconfig.json
+F:\Project\Buoi2TMA\Buoi2TMA\bin\Debug\netcoreapp2.0\Buoi2TMA.runtimeconfig.dev.json
+F:\Project\Buoi2TMA\Buoi2TMA\bin\Debug\netcoreapp2.0\Buoi2TMA.dll
+F:\Project\Buoi2TMA\Buoi2TMA\bin\Debug\netcoreapp2.0\Buoi2TMA.pdb
+F:\Project\Buoi2TMA\Buoi2TMA\obj\Debug\netcoreapp2.0\Buoi2TMA.csprojAssemblyReference.cache
+F:\Project\Buoi2TMA\Buoi2TMA\obj\Debug\netcoreapp2.0\Buoi2TMA.csproj.CoreCompileInputs.cache
+F:\Project\Buoi2TMA\Buoi2TMA\obj\Debug\netcoreapp2.0\Buoi2TMA.AssemblyInfoInputs.cache
+F:\Project\Buoi2TMA\Buoi2TMA\obj\Debug\netcoreapp2.0\Buoi2TMA.AssemblyInfo.cs
+F:\Project\Buoi2TMA\Buoi2TMA\obj\Debug\netcoreapp2.0\Buoi2TMA.dll
+F:\Project\Buoi2TMA\Buoi2TMA\obj\Debug\netcoreapp2.0\Buoi2TMA.pdb
